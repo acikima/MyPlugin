@@ -10,4 +10,8 @@ public class MyPlugin {
     public String getGreet() {
         return greet;
     }
+
+    public void setGreet(String greet) {
+        this.greet = greet;
+    }
 }
